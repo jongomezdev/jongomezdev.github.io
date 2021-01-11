@@ -42,6 +42,16 @@ img.logo {
   display: table-cell;
 }
 
+#intro {
+  padding-top: 100px;
+  align-content: center;
+  height: 100vh;
+}
+
 .navbar-light .navbar-text a {
   color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar {
+  position: sticky;
 }
