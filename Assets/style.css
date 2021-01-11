@@ -2,8 +2,37 @@
 
 * {
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
   font-family: "Varela", sans-serif;
+}
+
+a {
+  color: rgba(0, 0, 0, 0.9);
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.alert {
+  position: relative;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar-light .navbar-text a {
+  color: rgba(0, 0, 0, 0.9);
 }
