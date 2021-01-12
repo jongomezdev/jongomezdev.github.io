@@ -73,3 +73,8 @@ img.project1-screenshot {
 #other {
   padding-top: 15px;
 }
+
+.section {
+  padding-top: 6em;
+  margin-top: -6em;
+}
