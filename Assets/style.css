@@ -20,6 +20,10 @@ a {
   position: relative;
 }
 
+#backend {
+  padding-top: 15px;
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -64,4 +68,8 @@ img.project1-screenshot {
 
 .navbar {
   position: sticky;
+}
+
+#other {
+  padding-top: 15px;
 }
