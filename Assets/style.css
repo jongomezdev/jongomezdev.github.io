@@ -46,6 +46,11 @@ img.project-screenshot {
   height: 400px;
 }
 
+img.project1-screenshot {
+  height: auto;
+  width: 400px;
+}
+
 #intro {
   padding-top: 100px;
   align-content: center;
