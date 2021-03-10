@@ -7,6 +7,7 @@
 
 body {
   font-family: "Varela", sans-serif;
+  min-height: 100vh;
 }
 
 a {
@@ -59,7 +60,7 @@ img.project1-screenshot {
 #intro {
   padding-top: 100px;
   align-content: center;
-  height: 100vh;
+  height: 90vh;
 }
 
 .navbar-light .navbar-text a {
@@ -79,7 +80,7 @@ img.project1-screenshot {
   margin-top: -6em;
 }
 
-.typewriter {
+.typewriter h5 {
   color: rgba(0, 0, 0, 0.9);
   font-family: monospace;
   overflow: hidden;
@@ -87,7 +88,7 @@ img.project1-screenshot {
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: 0.15em;
-  animation: typing 3.5 steps(30, end), blink-caret 0.5s step-end infinite;
+  animation: typing 3.5 steps(44), blink-caret 0.5s step-end infinite;
 }
 
 @keyframes typing {
@@ -95,7 +96,7 @@ img.project1-screenshot {
     width: 0;
   }
   to {
-    width: 100%;
+    width: 80%;
   }
 }
 
