@@ -1,0 +1,12 @@
+[
+  {
+    "projectTitle": "Slick's Slices",
+    "projectDescription": "A mobile-first website for a local pizza joint. Compressed and fresh out of the oven., view the available pizzas and filter by your topping of choice. Create and place an order and have the receipt emailed.",
+    "projectTech": "This project utilized React, Nodejs, JavaScript, CSS, GraphQL, Gatsbyjs, Sanityio",
+    "projectLearnMoreLink": "https://github.com/jongomezdev/pizza",
+    "projectGoLink": "https://jg-pizza.netlify.app/",
+    "projectScreenshots": [
+      "https://github.com/jongomezdev/pizza/blob/main/gatsby/src/assets/images/slicksslices.png"
+    ]
+  }
+]
