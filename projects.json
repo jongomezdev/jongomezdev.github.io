@@ -9,5 +9,13 @@
       "https://i.ibb.co/mT0txsh/slicksslices.png",
       "https://i.ibb.co/Hnm726x/slicemasters.png"
     ]
+  },
+  {
+    "projectTitle": "React Pokedex",
+    "projectDescription": "A virtual Pokedex designed to catalogue and provide information regarding the various species of Pokemon featured in the Pokemon video game, anime and manga series.",
+    "projectTech": "This project utilized React, Nodejs, JavaScript, CSS, HTML",
+    "projectLearnMoreLink": "https://github.com/jongomezdev/React-Pokedex",
+    "projectGoLink": "https://react-pokedex-jg.herokuapp.com/#/",
+    "projectScreenshots": ["https://jongomez.dev/Assets/img/react-pokemon.png"]
   }
 ]
