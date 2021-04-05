@@ -5,10 +5,7 @@
     "projectTech": "This project utilized React, Nodejs, JavaScript, CSS, GraphQL, Gatsbyjs, Sanityio",
     "projectLearnMoreLink": "https://github.com/jongomezdev/pizza",
     "projectGoLink": "https://jg-pizza.netlify.app/",
-    "projectScreenshots": [
-      "https://i.ibb.co/mT0txsh/slicksslices.png",
-      "https://i.ibb.co/Hnm726x/slicemasters.png"
-    ]
+    "projectScreenshots": ["https://i.ibb.co/WF8ZpL1/slicks-Ipad.png"]
   },
   {
     "projectTitle": "React Pokedex",
