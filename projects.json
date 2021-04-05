@@ -17,5 +17,13 @@
     "projectLearnMoreLink": "https://github.com/jongomezdev/React-Pokedex",
     "projectGoLink": "https://react-pokedex-jg.herokuapp.com/#/",
     "projectScreenshots": ["https://jongomez.dev/Assets/img/react-pokemon.png"]
+  },
+  {
+    "projectTitle": "Weather Dashboard",
+    "projectDescription": "A mobile-first weather app for travelers on the move. Allows users to enter a desired city of travel. Search displays the weather icon, temperature, humidity, wind speed and uv index will appear. The 5 day forecast for the same search will appear below along with dates, temperatures and humidity.",
+    "projectTech": "This project utilized HTML, CSS, javaScript, jQuery, Axios, Openweathermap API, and Luxon",
+    "projectLearnMoreLink": "https://github.com/jongomezdev/Weather-Dashboard",
+    "projectGoLink": "https://jongomez.dev/Weather-Dashboard/",
+    "projectScreenshots": ["https://jongomez.dev/Assets/img/wdiphone.jpg"]
   }
 ]
