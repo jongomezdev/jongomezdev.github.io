@@ -5,8 +5,6 @@
     "projectTech": "This project utilized React, Nodejs, JavaScript, CSS, GraphQL, Gatsbyjs, Sanityio",
     "projectLearnMoreLink": "https://github.com/jongomezdev/pizza",
     "projectGoLink": "https://jg-pizza.netlify.app/",
-    "projectScreenshots": [
-      "https://github.com/jongomezdev/pizza/blob/main/gatsby/src/assets/images/slicksslices.png"
-    ]
+    "projectScreenshots": ["https://i.ibb.co/mT0txsh/slicksslices.png"]
   }
 ]
