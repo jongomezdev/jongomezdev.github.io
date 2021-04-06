@@ -16,14 +16,6 @@
     "projectScreenshots": ["https://jongomez.dev/Assets/img/react-pokemon.png"]
   },
   {
-    "projectTitle": "Weather Dashboard",
-    "projectDescription": "A mobile-first weather app for travelers on the move. Allows users to enter a desired city of travel. Search displays the weather icon, temperature, humidity, wind speed and uv index will appear. The 5 day forecast for the same search will appear below along with dates, temperatures and humidity.",
-    "projectTech": "This project utilized HTML, CSS, javaScript, jQuery, Axios, Openweathermap API, and Luxon",
-    "projectLearnMoreLink": "https://github.com/jongomezdev/Weather-Dashboard",
-    "projectGoLink": "https://jongomez.dev/Weather-Dashboard/",
-    "projectScreenshots": ["https://jongomez.dev/Assets/img/wdiphone.jpg"]
-  },
-  {
     "projectTitle": "Vireo",
     "projectDescription": "Vireo was created to provide information for users upon request to manage and prepare for their next trip. Users can get a information about a country like the Key Phrases in the native language, currency, top 5 Restaurants, Museums, Sightseeing Spots, Fun facts and travel restrictions. Users can also create a post about their recent trip and read other users posts.",
     "projectTech": "This project utilized HTML, CSS, JavaScript, jQuery, Node, Express, MySQL, Sequelize, Handlebars, Axios",
